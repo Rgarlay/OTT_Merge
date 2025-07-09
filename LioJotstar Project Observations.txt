@@ -1,0 +1,87 @@
+LioJotstar Project 
+
+Observations: - 
+
+-- Users in LioCinema: - 183k; Users in Jotstar: - 45k;
+
+-- Growth rate for LioCinema is about 100x more than Jotstar.
+
+-- Top 5 Content genre in 
+	LioCinema:- Drama, Comedy, Action, Romance, Thriller
+	Jotstar: - Action, Drama, Thriller, Live Sport, Comedy
+
+-- Least 5 genre
+	LioCinema: - Documentries, Highlights, Live Sport, Horror
+	Jotstar :- Family, Documentries, Highlights, Sci-fi
+
+-- Content Type Distribution
+	LioCinema: - Movie, Series, Sports
+	Jotstar: - Movie, Series, Sports
+
+-- Most prominent Content
+	LioCinema: - Hindi, Telgu, Tamil.
+	Jotstar: - English, Hindi, Tamil
+
+-- City Tier user Distribution
+Jotstar: - Most of audience is from Tier 1. 57%.
+LioCinema: - Most Users 42% are from tier 3.
+
+-- Plan subscription
+Jotstar: - Most users are on VIP plan, lower paid plan.
+LioCinema: - Most audience is on Free plan, 57%.
+
+-- Age Group user distribution
+Jotstar: - 25 - 34 is most prominent. 45%.
+LioCinema: - 18 - 24 is most present at 43.5%.
+
+
+User Inactivity:
+	LioCinema: - 55:45 active:inactive ratio	
+	JotStar: - 85:15 ratio
+
+
+
+Inactivity by city tier:
+	Jotstar: - 50% of inactivity from tier 1
+	LioCinema: - 52% of inactivity from tier 3.
+
+Age-Group inactivity:
+	Jotstar: - 46% inactivity from 25-34 group
+	LioCinema: - 18-24 has 47% inactivity
+
+subscription plan inactivity ratio:-
+	Jotstar: - 43% inactivity is in VIP 
+	LioCinema: - 44% inactivity is in free tier.
+
+Average watchtime analysis
+
+	Liocinema:- Tier 1 cities make up 41% of watchtime.
+	Jotstar: - 43% from tier 1.
+
+Avg. watchtime by subscription:-
+	LioCinema: - Most watchtime is from premium 50%
+	Jotstar: - Most waathctime is from premium 47%.
+
+Avg. watchtime by device:
+	LioCinema: - Most is from Mobile (about 69%)
+	Jotstar: - 50% is from mobile.
+
+
+Upgrade and downgrade ratios:
+	Jotstar: - 10% peopleupgrade and <1% downgrade
+	LioCinema: - About 2% upgrade 11% downgrade
+
+Paid User %age:
+	LioCinema: - 20% users 
+	Jotstar: - 73% users
+
+Premium Users: - 
+	Jotstar: - Tier 1 makes up for 76% of total Premium population
+	LioCinema:-  44% of Tier 1 makes up Highest payment plan.
+
+Total Revenue: - 
+	LioCinema: - 26M rupees
+	Jotstar: - 50M rupees 
+
+
+
